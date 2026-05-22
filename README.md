@@ -1,9 +1,11 @@
 # 💫 About Me:
 Computer System Engineer focused on backend development, competitive programming, and developer tools.
 
-💻 Software Developer @ Oracle\n
-🧠 Interested in algorithms and data structures\n
-📚 Professor @ ITESO\n
+💻 Software Developer @ Oracle
+
+🧠 Interested in algorithms and data structures
+
+📚 Professor @ ITESO
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-andr%C3%A9s-p%C3%A1ez-a4713b22b/) 
