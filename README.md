@@ -1,5 +1,9 @@
 # 💫 About Me:
-Oracle Software Developer 
+Computer System Engineer focused on backend development, competitive programming, and developer tools.
+
+💻 Software Developer @ Oracle
+🧠 Interested in algorithms and data structures
+📚 Professor @ ITESO
 
 
 ## 🌐 Socials:
