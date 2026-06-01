@@ -58,42 +58,7 @@ Computer System Engineer focused on backend development, competitive programming
 
 ## GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chipes-0&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chipes-0&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Chipes-0&theme=tokyonight"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chipes-0&theme=tokyonight&row=1"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chipes-0&theme=tokyo-night"/>
-</p>
-
----
-
-## Top Contributed Repositories
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Chipes-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
+![Metrics](./github-metrics.svg)
 ---
 
 ## LeetCode
