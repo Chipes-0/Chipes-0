@@ -13,7 +13,6 @@ Computer System Engineer focused on backend development, competitive programming
 - ⚒️ Software Developer @ Oracle
 - 🐍 Python Developer
 - 🗄️ Oracle SQL
-- 🏆 Solved 500+ LeetCode problems
 
 ---
 
