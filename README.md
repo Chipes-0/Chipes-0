@@ -7,7 +7,7 @@ Web Developer | Competitive Programmer
 ---
 
 ## About Me
-Computer System Engineer focused on backend development, competitive programming, and developer tools.
+Computer System Engineer focused on Fullstack development, competitive programming, and developer tools.
 
 - 💻 Software Engineer with 3+ years of industry experience
 - ⚒️ Software Developer @ Oracle
